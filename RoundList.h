@@ -19,7 +19,7 @@ public:
     void addToEnd(int);
     void clear();
     void removeFirst();
-    friend ostream &operator<<(ostream&, const RoundList&);
+    friend ostream &operator<<(ostream&, const RoundList&);//000
 };
 
 #endif //EXERCISE_6_QUESTION_2_ROUNDLIST_H
