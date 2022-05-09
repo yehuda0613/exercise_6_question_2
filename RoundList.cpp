@@ -46,7 +46,7 @@ void RoundList::addToEnd(int val) {//קוד של יהודה
 
 void RoundList::clear()
 {
-    List::clear();
+    List::clear();///********************
 }
 
 void RoundList::removeFirst() {
