@@ -1,0 +1,3 @@
+C:/Users/Yoni/CLionProjects/exercise_6_question_2/cmake-build-debug/CMakeFiles/exercise_6_question_2.dir
+C:/Users/Yoni/CLionProjects/exercise_6_question_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yoni/CLionProjects/exercise_6_question_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
