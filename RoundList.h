@@ -20,6 +20,7 @@ public:
     void clear();
     void removeFirst();
     friend ostream &operator<<(ostream&, const RoundList&);
+    int firstElement() const;
 };
 
 #endif //EXERCISE_6_QUESTION_2_ROUNDLIST_H
